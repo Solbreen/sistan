@@ -1,5 +1,4 @@
 import json
-from pandas import DataFrame as df
 
 def process_json_files(filenameA, filenameB) -> tuple:
     try:
